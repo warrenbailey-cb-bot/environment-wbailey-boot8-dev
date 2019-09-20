@@ -1,0 +1,10 @@
+adminUser:
+  password: local:wbailey-boot8/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: wbailey@cloudbees.com
+  token: local:wbailey-boot8/pipelineUser:token
+  username: warrenbailey-cb-bot
+prow:
+  hmacToken: local:wbailey-boot8/prow:hmacToken
